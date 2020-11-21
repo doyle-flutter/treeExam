@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-브랜치
-브랜치
-=======
-testSub
- - Branches
- - Branches 시작
->>>>>>> master
+testSub2
+ - 병합 후 새로운 브랜치
