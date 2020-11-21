@@ -1,3 +1,2 @@
-testSub
- - Branches
- - Branches 시작
+testSub2
+ - 병합 후 새로운 브랜치
